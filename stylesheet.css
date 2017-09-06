@@ -1,0 +1,13 @@
+body {
+  background-color: purple;
+}
+
+
+#basic {
+  font-family: "Arial Black";
+  font-weight: bold;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  color: #acd1b2;
+}
